@@ -8,4 +8,6 @@ AVCHD
 
 ## ideas
 
+http://www.imaging-resource.com/PRODS/GX1/GX1VIDEO.HTM
+
 http://www.linuxquestions.org/questions/linux-software-2/mts-video-conversion-672091/
