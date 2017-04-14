@@ -6,7 +6,11 @@ I need to convert it into something more iniversaly accepted.
 
 AVCHD
 
-## ideas
+Video: MPEG-4, AVC/H.264
+
+Audio: Dolby AC-3, linear PCM
+
+## References
 
 https://en.wikipedia.org/wiki/AVCHD
 
